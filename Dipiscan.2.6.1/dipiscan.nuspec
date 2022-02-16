@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>dipiscan</id>
+    <version>2.6.1</version>
+    <title>Dipiscan (Install)</title>
+    <authors>Damien PONNELLE</authors>
+    <owners>bibimagic</owners>
+    <licenseUrl>http://cecill.info/index.fr.html</licenseUrl>
+    <projectUrl>https://www.dipisoft.com/articles.php?lng=fr&pg=2116&mnuid=2211&tconfig=0</projectUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/bibimagic/Damien-PONNELLE-dipiscan/dipiscan32.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Scan du réseau permettant de récupérer diverses informations et d'agir sur les postes distants.</description>
+    <summary>Dipiscan est un outil qui va vous permettre d'analyser les appareils connectés à votre réseau. Du moins ceux qui sont configurés pour ne pas rester "masqués".
+	Outre les informations habituelles (adresse IP, adresse MAC, utilisateur connecté, etc.) que la plupart des autres outils du même genre remontent, Dipiscan offre en plus la possibilité de configurer le rapatriement d'infos complémentaires (extraites de la base de registre distante ou par des requêtes WMI/SNMP). Ceci se fait très facilement via la fenêtre de configuration de l'outil.
+	Vous avez été fan d'IPScan32 ? Alors vous allez adorer Dipiscan ! cligne Pourquoi suis-je aussi sûr moi ? Ma réponse en quelques points :
+    son ergonomie, très proche de celle d'IPScan32 pour que vous ne soyez pas trop perturbé,
+    son look, légèrement modernisé,
+    ses fonctionnalités, enrichies par l'intégration de celles de WakeOnLan,
+    son fonctionnement qui ne s'appuie plus sur les commandes du DOS (PING, NBTSTAT, ARP, NSLOOKUP) dont l'utilisation pouvait poser des problèmes sur des versions de Windows "localisées" (traduites dans une autre langue que le français ou l'anglais),
+    son paramétrage, permettant de configurer plus finement les analyses,
+    son mode ligne de commandes (DipiscanBatch.exe), pour ceux qui ont besoin d'automatiser l'analyse de scan,
+    son utilisation en mode "portable", donc l'absence d'installeur,
+    mais surtout : sa rapidité, car Dipiscan n'est pas une évolution d'IPScan32 : c'est un nouvel outil totalement repensé et ré-écrit dans un langage de développement moderne. Fini le VB5 de pépère, place au C# et au multi-threading ! Résultat : quand l'analyse d'un brin nécessitait auparavant entre 3 minutes et 5 minutes, voire parfois plus, elle est à présent bouclée en 10 à 20 secondes ! Et ce en remontant autant d'informations qu'avant, si ce n'est plus.</summary>
+    <copyright>Damien PONNELLE</copyright>
+	<releaseNotes>*</releaseNotes>
+	<packageSourceUrl>https://github.com/bibimagic/Aquila-WakeOnLAN-chocolatey-package/tree/main/Aquila-WakeOnLAN.2.12.4</packageSourceUrl>
+	<docsUrl>https://www.dipisoft.com/articles.php?lng=fr&pg=2116&mnuid=2211&tconfig=0</docsUrl>
+	<mailingListUrl>https://www.dipisoft.com/as_pstgst.php?lng=fr&typ=ra&pg=2116</mailingListUrl>
+	<bugTrackerUrl>https://www.dipisoft.com/as_pstgst.php?lng=fr&typ=ra&pg=2116</bugTrackerUrl>
+	<projectSourceUrl>*</projectSourceUrl>
+    <tags>scan network ip mac user wmi snmp ping nbtstat arp nslookup</tags>
+  </metadata>
+</package>
