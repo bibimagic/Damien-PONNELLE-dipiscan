@@ -24,7 +24,7 @@
     mais surtout : sa rapidité, car Dipiscan n'est pas une évolution d'IPScan32 : c'est un nouvel outil totalement repensé et ré-écrit dans un langage de développement moderne. Fini le VB5 de pépère, place au C# et au multi-threading ! Résultat : quand l'analyse d'un brin nécessitait auparavant entre 3 minutes et 5 minutes, voire parfois plus, elle est à présent bouclée en 10 à 20 secondes ! Et ce en remontant autant d'informations qu'avant, si ce n'est plus.</summary>
     <copyright>Damien PONNELLE</copyright>
 	<releaseNotes>*</releaseNotes>
-	<packageSourceUrl>https://github.com/bibimagic/Aquila-WakeOnLAN-chocolatey-package/tree/main/Aquila-WakeOnLAN.2.12.4</packageSourceUrl>
+	<packageSourceUrl>https://github.com/bibimagic/Damien-PONNELLE-dipiscan/tree/main/Dipiscan.2.6.1</packageSourceUrl>
 	<docsUrl>https://www.dipisoft.com/articles.php?lng=fr&pg=2116&mnuid=2211&tconfig=0</docsUrl>
 	<mailingListUrl>https://www.dipisoft.com/as_pstgst.php?lng=fr&typ=ra&pg=2116</mailingListUrl>
 	<bugTrackerUrl>https://www.dipisoft.com/as_pstgst.php?lng=fr&typ=ra&pg=2116</bugTrackerUrl>
