@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>dipiscan</id>
+    <version>2.6.1</version>
+    <title>Dipiscan (Install)</title>
+    <authors>Damien PONNELLE</authors>
+    <owners>bibimagic</owners>
+    <licenseUrl>http://cecill.info/index.fr.html</licenseUrl>
+    <projectUrl>https://www.dipisoft.com/articles.php?pg=2116</projectUrl>
+    <iconUrl>https://cdn.jsdelivr.net/gh/bibimagic/Damien-PONNELLE-dipiscan/dipiscan32.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Scan du réseau permettant de récupérer diverses informations et d'agir sur les postes distants.</description>
+    <summary>Dipiscan est un outil qui va vous permettre d'analyser les appareils connectés à votre réseau.
+	Outre les informations habituelles (adresse IP, adresse MAC, utilisateur connecté, etc.) que la plupart des autres outils du même genre remontent,
+	Dipiscan offre en plus la possibilité de configurer le rapatriement d'infos complémentaires (extraites de la base de registre distante ou par des requêtes WMI/SNMP).
+	Ceci se fait très facilement via la fenêtre de configuration de l'outil.</summary>
+    <copyright>Damien PONNELLE</copyright>
+	<packageSourceUrl>https://github.com/bibimagic/Damien-PONNELLE-dipiscan/tree/main/Dipiscan.2.6.1</packageSourceUrl>
+	<releaseNotes>https://www.dipisoft.com/articles.php?pg=2116</releaseNotes>
+	<docsUrl>https://www.dipisoft.com/articles.php?pg=2116</docsUrl>
+	<mailingListUrl>https://www.dipisoft.com/as_pstgst.php?pg=2116</mailingListUrl>
+	<bugTrackerUrl>https://www.dipisoft.com/as_pstgst.php?pg=2116</bugTrackerUrl>
+	<tags>scan network ip mac user wmi snmp ping nbtstat arp nslookup</tags>
+	<dependencies>
+      <dependency id="dotnet4.5.2" version="4.5.2.20140902" />
+    </dependencies>
+  </metadata>
+</package>
