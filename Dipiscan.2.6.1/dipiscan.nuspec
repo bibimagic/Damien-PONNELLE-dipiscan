@@ -10,11 +10,11 @@
     <projectUrl>https://www.dipisoft.com/articles.php?pg=2116</projectUrl>
     <iconUrl>https://cdn.jsdelivr.net/gh/bibimagic/Damien-PONNELLE-dipiscan/dipiscan32.png</iconUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
-    <description>Scan du réseau permettant de récupérer diverses informations et d'agir sur les postes distants.</description>
-    <summary>Dipiscan est un outil qui va vous permettre d'analyser les appareils connectés à votre réseau.
-	Outre les informations habituelles (adresse IP, adresse MAC, utilisateur connecté, etc.) que la plupart des autres outils du même genre remontent,
-	Dipiscan offre en plus la possibilité de configurer le rapatriement d'infos complémentaires (extraites de la base de registre distante ou par des requêtes WMI/SNMP).
-	Ceci se fait très facilement via la fenêtre de configuration de l'outil.</summary>
+    <description>Scanning the network to retrieve various information and act on remote stations.</description>
+    <summary>Dipiscan is a tool that will allow you to analyze the devices connected to your network.
+	In addition to the usual information (IP address, MAC address, connected user, etc.) that most other tools of the same kind provide,
+	Dipiscan also offers the possibility to configure the retrieval of additional information (extracted from the remote registry or by WMI/SNMP requests).
+	This is done very easily via the tool's configuration window.</summary>
     <copyright>Damien PONNELLE</copyright>
 	<packageSourceUrl>https://github.com/bibimagic/Damien-PONNELLE-dipiscan/tree/main/Dipiscan.2.6.1</packageSourceUrl>
 	<releaseNotes>https://www.dipisoft.com/articles.php?pg=2116</releaseNotes>
